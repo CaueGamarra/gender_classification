@@ -6,4 +6,4 @@ Dependencies:
   * scipy
 
 Usage:
-python Run_Code.py
+gender.py
